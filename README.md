@@ -9,3 +9,7 @@ print("Hello world")
 
 *i live in Niagara*
 ![](https://github.com/TGreenizan/CodeingCheatSheets/blob/main/download.jpg?raw=true)
+
+images: ![](image url)
+
+line breaks: ---
