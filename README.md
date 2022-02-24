@@ -13,3 +13,7 @@ print("Hello world")
 images: ![](image url)
 
 line breaks: ---
+
+https://www.markdownguide.org/cheat-sheet/ 
+
+https://code.visualstudio.com/docs/python/jupyter-support-py
